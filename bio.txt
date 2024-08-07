@@ -1,0 +1,5 @@
+Expense Tracker:
+
+Problem: People struggle to keep track of their daily expenses and manage their budgets.
+Solution: Create a simple web/mobile app that allows users to log their expenses, categorize them, and generate reports.
+Features: User authentication, expense logging, category management, monthly/yearly reports, and data export.
